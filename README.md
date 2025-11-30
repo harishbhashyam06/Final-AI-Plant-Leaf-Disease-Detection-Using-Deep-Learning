@@ -747,8 +747,7 @@ Confidence: 0.9873
 Example UI Screenshot (replace with your actual GitHub image path):
 
 ```markdown
-![App Output](https://github.com/harishbhashyam06/Final-AI-Plant-Leaf-Disease-Detection-Using-Deep-Learning/test_images
-/output.png)
+![App Output](https://github.com/harishbhashyam06/Final-AI-Plant-Leaf-Disease-Detection-Using-Deep-Learning/test_images/output.png)
 ```
 
 ---
