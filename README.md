@@ -744,11 +744,12 @@ Prediction: Tomato__Tomato_Yellow_Leaf_Curl_Virus
 Confidence: 0.9873
 ```
 
-Example UI Screenshot (replace with your actual GitHub image path):
+Example UI Screenshot:
 
-```
+
 ![App Output](https://github.com/harishbhashyam06/Final-AI-Plant-Leaf-Disease-Detection-Using-Deep-Learning/blob/main/test_images/output.png)
-```
+
+
 
 ---
 
